@@ -34,3 +34,6 @@ while True:
     else:
         
         print('try to type rock , scissors or paper in')
+
+
+
