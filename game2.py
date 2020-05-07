@@ -6,7 +6,7 @@ choice=['rock','scissors','paper']
 human_wins=[choice[0]+choice[1], choice[1]+choice[2], choice[2]+choice[0]]    
     
 while True:
-    print('to quite press q')
+    print('to quit press q')
    
     
     human_choice=input('rock , scissors or paper: ')
